@@ -10,4 +10,4 @@ npm run web
 
 ## Результати
 
-[results screenshot](./docs/result.png)
+![results screenshot](./docs/result.png)
