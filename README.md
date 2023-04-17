@@ -10,4 +10,10 @@ npm run web
 
 ## Результати
 
+Початковий стан застосунку:
+
+![initial screenshot](./docs/initial.png)
+
+Після додавання 1 війьска некромантів, 1 війська ополчення у легкій броні та 2 військ орків:
+
 ![results screenshot](./docs/result.png)
